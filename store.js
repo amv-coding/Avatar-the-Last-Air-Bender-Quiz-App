@@ -1,53 +1,53 @@
 const STORE = {
   questions: [//1
     {
-      question: 'Open the abbreviation HTML',
+      question: 'What kind of bender is Katara?',
       answers: [
-        'Hyper Text Module Language',
-        'Hyper Text Markup Language',
-        'Hyper Test Markup Language',
-        'Hyperlink Markup Language'
+        'Fire',
+        'Water',
+        'Earth',
+        'Air'
       ],
-      correctAnswer: 'Hyper Text Markup Language'
+      correctAnswer: 'Water'
     },
     //2
     {
-      question: 'What is the correct HTML tag for a new paragraph?',
+      question: 'When the name of AAngs Flying-Bison?',
       answers: [
-        'paragraph',
-        'p',
-        'pre',
-        'para'
+        'Appa',
+        'Ap',
+        'Papa',
+        'not appa'
       ],
-      correctAnswer: 'p'
+      correctAnswer: 'Appa'
     },
     //3
     {
-      question: 'What is the HTML attribute to reference the location of an image inside the image tag?',
+      question: 'How long was Aang missing for?',
       answers: [
-        'src',
-        'href',
-        'link',
-        'Location'
+        '100 years',
+        '100 days',
+        '10 years',
+        '1 day'
       ],
-      correctAnswer: 'src'
+      correctAnswer: '100 years'
     },
     //4
     {
-      question: 'Which tag would you use to create a hyperlink?	',
-      answers: ['a', 'img', 'dl', 'h1'],
-      correctAnswer: 'a'
+      question: 'What is Zukos uncle name?',
+      answers: ['Fire', 'Pyro', 'Iroh', 'Flames'],
+      correctAnswer: 'Iroh'
     },
     //5
     {
-      question: 'How to write HTML Comment?',
+      question: 'How many seasons did swas the show aired for?',
       answers: [
-        '// This is HTML comment',
-        '/* This is HTML comment */',
-        '< !-- This is HTML comment -->',
-        '**'
+        '3',
+        '4',
+        '5',
+        '2'
       ],
-      correctAnswer: '< !-- This is HTML comment -->'
+      correctAnswer: '3'
     }
   ],
   quizStarted: false,
