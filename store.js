@@ -12,7 +12,7 @@ const STORE = {
     },
     //2
     {
-      question: 'When the name of AAngs Flying-Bison?',
+      question: 'When the name of Aangs Flying-Bison?',
       answers: [
         'Appa',
         'Ap',
@@ -34,7 +34,7 @@ const STORE = {
     },
     //4
     {
-      question: 'What is Zukos uncle name?',
+      question: 'What is name of Zukos uncle?',
       answers: ['Fire', 'Pyro', 'Iroh', 'Flames'],
       correctAnswer: 'Iroh'
     },
