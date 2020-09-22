@@ -6,7 +6,7 @@
 function generateStartScreenHtml() {
   return `
     <div class="start-screen">
-      <p>This quiz to showcase what you know about the show "Avatar: The Last Air-Bender".</p>
+      <p>This quiz is to showcase what you know about the show "Avatar: The Last Air-Bender".</p>
       <button type="button" id="start">Start Quiz</button>
     </div>
   `;
