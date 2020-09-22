@@ -3,8 +3,8 @@
 }
 /*styling for the body including the back drop which is a really light blue*/
 body {
-  font-family: "Roboto", sans-serif;
-  color: black;
+  font-family: Georgia, sans-serif;
+  color: #003100;
   margin: 0;
   background: cover;
   background-image: url("amv-coding/Avatar-the-Last-Air-Bender-Quiz-App/avatar wallpaper.jpg");
