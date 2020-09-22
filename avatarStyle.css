@@ -1,14 +1,13 @@
 * {
   box-sizing: border-box;
 }
-//styling for the body including the back drop which is a wallpaper of the show
+//styling for the body including the back drop which is a really lgiht blue
 body {
   font-family: "Roboto", sans-serif;
   color: black;
   margin: 0;
   background: cover;
-  background-image: url("/Avatar-the-Last-Air-Bender-Quiz-App/avatar wallpaper.jpg");
-  background-color: #262626;
+  background-color: #add8e6;
 }
 //customizes the top header font color and positioning
 header {
