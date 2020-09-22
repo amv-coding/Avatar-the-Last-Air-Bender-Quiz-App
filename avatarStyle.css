@@ -1,24 +1,25 @@
 * {
   box-sizing: border-box;
 }
-//styling for the body including the back drop which is a really lgiht blue
+/*styling for the body including the back drop which is a really lgiht blue*/
 body {
   font-family: "Roboto", sans-serif;
   color: black;
   margin: 0;
   background: cover;
+  background-image: url("amv-coding/Avatar-the-Last-Air-Bender-Quiz-App/avatar wallpaper.jpg");
   background-color: #add8e6;
 }
-//customizes the top header font color and positioning
+/*customizes the top header font color and positioning*/
 header {
   padding: 55px 0 0 0;
   color: white;
 }
-//centers the h1 text which is the title of the quiz
+/*centers the h1 text which is the title of the quiz*/
 h1 {
   text-align: center;
 }
-//adjusts the styling of the fonts, text-align, and other style features for the questions
+/*adjusts the styling of the fonts, text-align, and other style features for the questions*/
 .question-and-score {
   font-size: 20px;
   font-weight: 600px;
@@ -26,7 +27,7 @@ h1 {
   text-align: center;
   list-style: none;
 }
-//adjust the button for answer submissions
+/*adjust the button for answer submissions*/
 button {
   margin-top:10px;
   height: auto;
@@ -76,21 +77,21 @@ label {
   display:block;
   border-radius:5px;
 }
-//adjust the styling for the right answer selected
+/*adjust the styling for the right answer selected*/
 .right-answer {
  background:ivory;
  padding: 10px 20px;
  margin: 5px 20px;
  border:2px solid greenyellow;
 }
-//adjust the styling for the wrong answer selected
+/*adjust the styling for the wrong answer selected*/
 .wrong-answer {
   background:ivory;
   padding: 10px;
   margin: 5px 20px;
   border:2px solid #fe0000;
 }
-//makes the questions align right
+/*makes the questions align right*/
 .question-form button {
   float:right;
 }
