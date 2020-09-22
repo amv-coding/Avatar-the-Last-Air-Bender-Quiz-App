@@ -1,3 +1,4 @@
+//this is the file to store the quiz questions 
 const STORE = {
   questions: [//1
     {
