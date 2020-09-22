@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-
+//styling for the body including the back drop which is a wallper of the show
 body {
   font-family: "Roboto", sans-serif;
   color: black;
@@ -10,16 +10,16 @@ body {
   background-image: url("../Avatar-the-Last-Air-Bender-Quiz-App/avatar the last air bender backdrop for app.jpg");
   background-color: #262626;
 }
-
+//customizes the top header font color and positioning
 header {
   padding: 55px 0 0 0;
   color: white;
 }
-
+//centers the h1 text which is the title of the quiz
 h1 {
   text-align: center;
 }
-
+//adjusts the styling of the fonts, text-align, and other style features for the questions
 .question-and-score {
   font-size: 20px;
   font-weight: 600px;
@@ -27,7 +27,7 @@ h1 {
   text-align: center;
   list-style: none;
 }
-
+//adjust the button for answer submissions
 button {
   margin-top:10px;
   height: auto;
@@ -77,21 +77,21 @@ label {
   display:block;
   border-radius:5px;
 }
-
+//adjust the styling for the right answer selected
 .right-answer {
  background:ivory;
  padding: 10px 20px;
  margin: 5px 20px;
  border:2px solid greenyellow;
 }
-
+//adjust the styling for the wrong answer selected
 .wrong-answer {
   background:ivory;
   padding: 10px;
   margin: 5px 20px;
   border:2px solid #fe0000;
 }
-
+//makes the questions align right
 .question-form button {
   float:right;
 }
