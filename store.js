@@ -13,7 +13,7 @@ const STORE = {
     },
     //2
     {
-      question: 'When the name of Aangs Flying-Bison?',
+      question: 'What is the name of Aangs Flying-Bison?',
       answers: [
         'Appa',
         'Ap',
