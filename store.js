@@ -41,7 +41,7 @@ const STORE = {
     },
     //5
     {
-      question: 'How many seasons did swas the show aired for?',
+      question: 'How many seasons was the show aired for?',
       answers: [
         '3',
         '4',
