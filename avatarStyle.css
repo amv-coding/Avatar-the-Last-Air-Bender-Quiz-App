@@ -4,7 +4,7 @@
 /*styling for the body including the back drop which is a really light blue*/
 body {
   font-family: Georgia, sans-serif;
-  color: #cornSilk;
+  color: black;
   margin: 0;
   background: cover;
   background-image: url("https://goldwallpapers.com/uploads/posts/avatar-anime-wallpaper/avatar_anime_wallpaper_013.jpg");
@@ -12,7 +12,7 @@ body {
 /*customizes the top header font color and positioning*/
 header {
   padding: 55px 0 0 0;
-  color: #cornSilk;
+  color: cornSilk;
 }
 /*centers the h1 text which is the title of the quiz*/
 h1 {
