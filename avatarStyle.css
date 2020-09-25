@@ -22,7 +22,7 @@ h1 {
 .question-and-score {
   font-size: 20px;
   font-weight: 600px;
-  color:#ce2029;
+  color:cornSilk;
   text-align: center;
   list-style: none;
 }
@@ -33,12 +33,12 @@ button {
   font-size: 18px;
   font-weight: 500;
   text-align: center;
-  color:black;
-  background: #ff9a9a;
+  color: fire;
+  background: black;
   border: 0;
   cursor: pointer;
   margin-bottom: 0;
-  border-radius:3px;
+  border-radius:10px;
   padding: 10px 20px;
 }
 
@@ -47,7 +47,7 @@ button {
   padding: 40px;
   margin: 55px auto 0 auto;
   background:rgba(255, 255, 255, 0.8);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 legend {
@@ -78,17 +78,17 @@ label {
 }
 /*adjust the styling for the right answer selected*/
 .right-answer {
- background:ivory;
+ background:darkkhaki;
  padding: 10px 20px;
  margin: 5px 20px;
- border:2px solid greenyellow;
+ border:2px solid #0073cf;
 }
 /*adjust the styling for the wrong answer selected*/
 .wrong-answer {
-  background:ivory;
+  background:darkkhaki;
   padding: 10px;
   margin: 5px 20px;
-  border:2px solid #fe0000;
+  border:2px solid #9a6b00;
 }
 /*makes the questions align right*/
 .question-form button {
